@@ -1,2 +1,1 @@
-# rajas1998.github.io
-My website
+# My website
